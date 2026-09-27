@@ -3,7 +3,6 @@
 <img align="right" src="https://media.giphy.com/media/yFQ0ywscgobJK/giphy.gif" width="180" alt="Pixel Dancing Cat">
 
 [![GitHub Coder7895](https://img.shields.io/github/followers/Coder7895?label=Follow%20Pilot&style=for-the-badge&logo=github&color=00f0ff&logoColor=black)](https://github.com/Coder7895)
-[![Play 3D Game](https://img.shields.io/badge/PLAY_3D_GAME-HYPERSPACE-ff0055?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prismatic-melba-bbad3a.netlify.app/)
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjBnaDA0dWoycG14OTdjdnN2OGpqN3ZieGtwMHd4dzU4NTB6cnhzNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/nFrXYT50Hq2SrgUKC/giphy.gif" width="55"/>
 
@@ -34,4 +33,3 @@
  .-^^^-/ /        "Keep jumping, never go offline, dodge every cactus."
 __/       /
 <__.|_|-|_|     __🌵_______🌵🌵_______🌵________🌵🌵__
-
