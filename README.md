@@ -1,7 +1,4 @@
 
-
-<!--
-**Coder7895/Coder7895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h2> Hi, I'm Devesh Tripathi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h2>
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxhOTl5NTc5YW9lNGRveGRkM2hvcG9pYmk0cmNwejZnOHQ0NGY5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TKa7fQzChHylCQ89to/giphy.gif" width="220" alt="Gamer Bongo Cat">
