@@ -1,4 +1,4 @@
-<h2> Hi, I'm Devesh Tripathi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h2>
+<h2> Hi, I'm Devesh Tripathi! <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/146.gif" width="45" alt="Phoenix"></h2>
 
 <img align="right" src="https://media.giphy.com/media/yFQ0ywscgobJK/giphy.gif" width="180" alt="Pixel Dancing Cat">
 
